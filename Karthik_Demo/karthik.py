@@ -1,1 +1,1 @@
-print("this is demo1 project of other branch")
+print("this is demo1 project of other branch called new-branch")
